@@ -1,0 +1,39 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  position: relative;
+}
+
+#root {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.app {
+  width: 100%;
+  height: 100%;
+}
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.jss79 {
+  background-color: #10171f;
+}
+.jss80 {
+  fill: #212c3b;
+}
+.jss81 {
+  fill: #9e9e9e;
+}
+.jss82 {
+  fill: none;
+  stroke: #ccc;
+  vector-effect: non-scaling-stroke;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
